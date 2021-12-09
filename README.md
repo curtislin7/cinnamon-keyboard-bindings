@@ -1,4 +1,4 @@
-# cinnamon-keyboard-bindings
+# cinnamon-keyboard-shortcuts
 
 Generated using the `dconf-cli` tool. 
 
