@@ -13,3 +13,10 @@ https://www.cs.colostate.edu/~mcrob/toolbox/unix/keyboard.html
 
 bindable readline commands
 https://www.gnu.org/software/bash/manual/html_node/Bindable-Readline-Commands.html
+
+## Setting up fzf
+https://github.com/junegunn/fzf/issues/1866
+`$ dpkg -L fzf | grep bindings`
+`$ . /usr/share/doc/fzf/examples/key-bindings.bash`
+
+
